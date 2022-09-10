@@ -1,13 +1,13 @@
 <p align="center"><img src="(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FsoCyc%2Fbtq6rvURvZe%2FPpd4HSoV0pq33S0Hm7viIK%2Fimg.jpg)"></p>
 
 
-# :whale:외군 전사 : 외적 군기 확립으로 전군 사기 고취하자
+# :sunglasses: 외군 전사 : 외적 군기 확립으로 전군 사기 고취하자:whale:
 
 ### 대충 briefly described readme for osam을 위한 련습,,,
-**제발 변경합시다.**
+**나중에 제발 이름은 변경합시다.**
 
 
-## :pencil:INDEX
+## :pencil: INDEX
 <details open="open">
   <ol>
     <li> ᐅ 개요</li>
@@ -18,7 +18,7 @@
   </ol>
 </details>
 
-## :grey_question:개요
+## :grey_question: 개요
 > + 카메라를 설치해, AI가 군 기지 출입시 두발 및 복장 불량 여부를 인식한다.
 >    + 대시보드에 여러 인사이트를 게재한다.
 >    + 각 부대 담당 간부는 접근 가능한 계정을 부여받아 이를 통해 확인할 수 있다.
@@ -28,5 +28,11 @@
 
 그러나 입수보행, 두발 및 복장 불량 등 외적 군기 위반 요소는 매우 다양합니다.
 
-**우리의 외군 전사는 이러한 사례들을 수집해 관리자, 일반 사병, 군사 경찰 할 것 없이 기지 내 장병들에게 편의와 인사이트를 제공하는 솔루션이 될 것입니다.**
+우리의 **"외군 전사"는 이러한 사례들을 수집해 관리자, 일반 사병, 군사 경찰 할 것 없이 기지 내 장병들에게 편의와 인사이트를 제공하는 솔루션**이 될 것입니다.
+> 위의 분량으로 문제점 뭔지, 우리가 만드는 솔루션 뭔지, 어떤 결과 나오는지 세 개 짧게 적어놓아야 할 듯 합니다.
+
+## :computer: UI/UI
+> 이미지 파일들 올리거나, 테이블 만들어서 그 안에 넣거나, 영상 올리거나,,,
+
+## :mag: 기능 설명
 
